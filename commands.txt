@@ -1,1 +1,1 @@
-echo "System Test ✅" test.log
+echo "System Test ✅" >> test.log
